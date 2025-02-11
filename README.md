@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/hritikh2k/hritikh2k/blob/main/banner.png)](https://your-portfolio-link.com)
-
-
 ### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hritikh2k&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikh2k&layout=compact&theme=vision-friendly-dark)](https://github.com/hritikh2k)
 
 ### 🚀 Latest Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hritikh2k&repo=repo-name&theme=dark)](https://github.com/hritikh2k/repo-name)
