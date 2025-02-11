@@ -1,13 +1,4 @@
 ### Hi there 👋
-
-### 📈 GitHub Stats
-
-### 🚀 Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hritikh2k&repo=repo-name&theme=dark)](https://github.com/hritikh2k/repo-name)
-
-### 🔥 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritikh2k&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritikh2k/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Hritikkumar5178)
